@@ -1,9 +1,0 @@
-#subscription-userinfo: upload=0; download=0; total=0 
-#profile-title: Krutoi VPN
-#profile-update-interval: 3 
-#support-url: https://t.me/krutoivpnreal 
-#announce: Спасибо что подписаны на тгк Krutoi VPN, не забывайте заходить в канал чтобы получать новую ссылку💘
-
-vless://3706c44b-2aef-4bd9-8564-0272d8679bf3@fastru.phantom.direct:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fastru.phantom.direct&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=13171b0dd8985179&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%AE%D0%A2%D0%A3%D0%91%20%D0%91%D0%95%D0%97%20%D0%A0%D0%95%D0%9A%D0%9B%D0%90%D0%9C%D0%AB
-vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@109.69.17.228:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=bzzru.hat.apruxdomain.space&fp=qq&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BA%D0%B8%20%7C%20Krutoi%20VPN
-vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@84.238.133.128:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swed2.helper-internet.com&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Krutoi%20VPN%20%7C%20%D0%94%D0%BB%D1%8F%20%D0%A2%D0%93%20%232
