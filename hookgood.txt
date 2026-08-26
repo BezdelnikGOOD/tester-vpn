@@ -1,7 +1,0 @@
-#subscription-userinfo: upload=0; download=0; total=0 
-#profile-title: Krutoi VPN
-#profile-update-interval: 3 
-#support-url: https://t.me/krutoivpnreal 
-#announce: Спасибо что подписаны на тгк Krutoi VPN, не забывайте заходить в канал чтобы получать новую 
-
-vless://30dfe097-4dff-4391-b841-e686122d7292@glidvia.shieldix.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=glidvia.shieldix.top&fp=firefox&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Krutoi%20VPN%20%7C%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F
