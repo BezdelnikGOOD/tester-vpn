@@ -5,4 +5,4 @@
 #announce: Спасибо что подписаны на тгк Krutoi VPN, не забывайте заходить в канал чтобы получать новую ссылку💘
 
 vless://3706c44b-2aef-4bd9-8564-0272d8679bf3@fastru.phantom.direct:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fastru.phantom.direct&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=13171b0dd8985179&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%AE%D0%A2%D0%A3%D0%91%20%D0%91%D0%95%D0%97%20%D0%A0%D0%95%D0%9A%D0%9B%D0%90%D0%9C%D0%AB
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.15.114:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mts01.edge-mwsru01.live&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Krutoi%20VPN%20%7C%20%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0
+vless://c6cff605-90cf-4953-bf97-0a44e43f229d@80.76.44.141:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl4.murhost.network&fp=firefox&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Krutoi%20VPN%20%7C%20%D0%94%D0%BB%D1%8F%20%D0%A2%D0%93
